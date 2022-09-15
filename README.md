@@ -1,6 +1,6 @@
 # Overview
 
-This is just a basic script that says "Hello!" then tells a story in python. The code itself is from an old project from an old programming class, but I figured it would be good for demonstrating a functional workflow in Git, which is the main purpose of this repo.
+This is just a basic Hello World file in python. The purpose of this repository is to demonstrate a functional workflow in git.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
